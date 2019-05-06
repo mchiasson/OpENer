@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(OpENer LANGUAGES C VERSION 2.3)
+project(OpENer VERSION 2.3)
 
 include(GNUInstallDirs)
 include(CMakePackageConfigHelpers)
